@@ -27,7 +27,7 @@ def greedy(graph):
     print(cost)
    
    
-#added later 
+
 def a_star_fringe(to_visit,a_node):
     for el in to_visit:
         if el.node==a_node.node:

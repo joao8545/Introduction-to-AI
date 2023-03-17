@@ -34,3 +34,5 @@ Link.create_link(q,r,3)
 Link.create_link(r,f,5)
         
 greedy(graph1)
+
+a_star(graph1)
